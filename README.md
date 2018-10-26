@@ -8,6 +8,9 @@ Knowledge System
  ### cassandra客户端破解：
  - System：run-->regedit：del HKEY_CURRENT_USER\Software\NoSQL Manager Group;
  - System：del C:\ProgramData\NoSQL Manager Group
+ 
+ ###MONGODB
+ - Morphia
 # 3、消息
 # 4、应用案例
 # 5、少儿编程
